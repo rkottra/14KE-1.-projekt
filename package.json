@@ -1,0 +1,23 @@
+{
+  "name": "14ke-1.-projekt",
+  "version": "1.0.0",
+  "description": "próba projekt a 14KE-ben",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkottra/14KE-1.-projekt.git"
+  },
+  "author": "Kottra Richárd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkottra/14KE-1.-projekt/issues"
+  },
+  "homepage": "https://github.com/rkottra/14KE-1.-projekt#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "pdfkit": "^0.12.3"
+  }
+}
